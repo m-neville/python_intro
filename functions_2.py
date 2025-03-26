@@ -1,4 +1,5 @@
 def volume_cylinder(radius, height):
+    """Calculates the volume of a cylinder """
     v = 22 / 7 * radius ** 2 * height
     return v
 

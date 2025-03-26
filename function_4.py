@@ -20,6 +20,4 @@ def extract_date(mpesa_message):
 
 message_1 = "TCO3V7DNGM Confirmed. Ksh3,000 sent to FRANCIS Simon on 24/3/25 at 8:02AM."
 extract_amount(message_1)
-
-message_1 = "TCO3V7DNGM Confirmed. Ksh3,000 sent to FRANCIS Simon on 24/3/25 at 8:02AM."
 extract_date(message_1)
